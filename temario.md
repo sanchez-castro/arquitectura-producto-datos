@@ -28,7 +28,7 @@
 
 
 ### Recursos
-1. (Machine Learning Design Patterns)[https://www.oreilly.com/library/view/machine-learning-design/9781098115777/]
-2. (Data Science on the Google Cloud Platform)[https://www.oreilly.com/library/view/data-science-on/9781491974551/]
-3. (Practical AI on the Google Cloud Platform)[https://www.oreilly.com/library/view/practical-ai-on/9781492075806/]
-4. (Google BigQuery: The Definitive Guide)[https://www.oreilly.com/library/view/google-bigquery-the/9781492044451/]
+1. [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)
+2. [Data Science on the Google Cloud Platform](https://www.oreilly.com/library/view/data-science-on/9781491974551/)
+3. [Practical AI on the Google Cloud Platform](https://www.oreilly.com/library/view/practical-ai-on/9781492075806/)
+4. [Google BigQuery: The Definitive Guide](https://www.oreilly.com/library/view/google-bigquery-the/9781492044451/)
