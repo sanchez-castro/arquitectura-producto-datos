@@ -16,7 +16,7 @@
 7. ETL vs ELT
 8. Orquestador: Airflow
 9. Infraestructura en la Nube: Google Cloud Platform
-10. Almacenamiento (Data Lake): Clous Storage
+10. Almacenamiento (Data Lake): Google Cloud Storage
 11. Almacén de Datos (Data Warehouse): BigQuery
 12. Inteligencia de Datos: Looker
 13. Maquinas Virtuales con aceleradores GPU/TPU
