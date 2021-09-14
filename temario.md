@@ -10,7 +10,7 @@
 3. [Arquitecturas modernas de datos](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
     1. Inteligencia de Datos/Descriptiva
     2. Inteligencia Artificial/Predictiva
-4. Fuentes de datos
+4. Fuentes de datos: API como caso de uso
 5. Ingeniería de Datos
 6. Governanza de Datos: Gestión de Identidades y Accesos (IAM)
 7. ETL vs ELT
