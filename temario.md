@@ -20,7 +20,7 @@
 11. Almacén de Datos (Data Warehouse): BigQuery
 12. Inteligencia de Datos: Looker
 13. Maquinas Virtuales con aceleradores GPU/TPU
-14. Modelación de Aprendizaje de Maquina en la nube
+14. Modelación de Aprendizaje de Maquina en la nube: empaquetamiento de modelo (docker vs python-package)
 15. Ingenieria de datos para grandes volumnes de datos: Apache Beam vs Spark vs Bigquery
 16. MLOps (CI/CD)
 17. Ingeniería de Aprendizaje de Máquina: Producción 
