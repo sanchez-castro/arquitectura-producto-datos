@@ -5,7 +5,7 @@
 1. Introducción
 2. Innovación con datos
     1. Planteamiento de projecto (project scoping)
-    2. Equipos modernos de Ciencia de Datos
+    2. Equipos modernos de Ciencia de Datos: ingeniero de datos, cientifico de datos, investigador ML, inginiero ML
     3. [Administración y ejecución de productos de datos](https://www.oreilly.com/radar/practical-skills-for-the-ai-product-manager/)
 3. [Arquitecturas modernas de datos](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
     1. Inteligencia de Datos/Descriptiva
