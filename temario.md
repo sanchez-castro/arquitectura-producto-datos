@@ -32,3 +32,19 @@
 2. [Data Science on the Google Cloud Platform](https://www.oreilly.com/library/view/data-science-on/9781491974551/)
 3. [Practical AI on the Google Cloud Platform](https://www.oreilly.com/library/view/practical-ai-on/9781492075806/)
 4. [Google BigQuery: The Definitive Guide](https://www.oreilly.com/library/view/google-bigquery-the/9781492044451/)
+
+### Principles of Building a Data Science Product
+
+1. Choose good data over good models
+2. Don't fight your infrastructure
+  - Use managed services over custom tools 
+3. Storage is cheap; people are not
+  - Bring data into your DB/DW as raw as possible and transform with SQL/common tools
+  - Choose ELT over ETL 
+4. Don't duplicate tools
+  - Choose flexible software over tools that support specific use cases
+5. Avoid bulky, legacy tech
+  - HDFS is no longer cutting edge
+  - Build for the cloud; avoid on-prem
+6. Build, measure, learn
+  - Work quickly, iterate often 
