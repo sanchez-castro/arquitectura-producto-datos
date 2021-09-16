@@ -1,4 +1,4 @@
-# Temario Arquitectura de Producto de Datos | ITAM  | 2021
+# Temario Arquitectura de Producto de Datos | ITAM  | Primavera 2022
 
 Esta clase tiene como objetivo brindar una introducción a la ingeniería de datos e ingeniería de aprenizaje de máquina para científicos de datos tomando en cuenta las últimas practicas y tecnologías mayormente adoptadas y validadas por las empresas tecnológicas más maduras del mundo.
 
