@@ -64,3 +64,13 @@ Se diseñará y desarrollará una arquitectura de producto de datos bajo el aná
 
 ### Instructores
 **[Adrian Sanchez-Castro](https://www.linkedin.com/in/sanchez-castro/) & [Jake Klein](https://www.linkedin.com/in/jake-klein-180498b9/)**
+
+### Organizaciones invitadas a dar *Perspectivas* sobre productos de datos
+- Google Brain
+- Twitter
+- New York Times
+- Amazon
+- Walmart
+- Nike
+
+
