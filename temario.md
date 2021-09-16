@@ -32,7 +32,7 @@ Busca dar a los estudiantes un perspectiva holística del ecosistema de infrastr
 18. Monitorización
 
 
-### Principles of Building a Data Science Product
+### Principios en la construcción de arquitecturas deproducto de datos 
 
 1. **Choose good data over complex models**
 2. **Don't fight your infrastructure**
