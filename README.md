@@ -1,16 +1,20 @@
 # Temario Arquitectura de Producto de Datos | ITAM  | 2021
 
 ### Aproximación de la materia
-Esta clase tiene como objetivo brindar una introducción a la ingeniería de datos e ingeniería de aprenizaje de máquina para científicos de datos tomando en cuenta las últimas practicas y tecnologías mayormente adoptadas por las empresas tecnológicas más maduras del mundo.
+Esta clase tiene como objetivo brindar una introducción a la ingeniería de datos e ingeniería de aprenizaje de máquina para científicos de datos tomando en cuenta las últimas practicas y tecnologías mayormente adoptadas y validadas por las empresas tecnológicas más maduras del mundo.
 
-Busca dar a los estudiantes un perspectiva holística del ecosistema de infrastrucutura de datos planteado planteado por Matt Bornstein, Martin Casado, and Jennifer Li en su artículo [*Emerging Architectures for Modern Data Infrastructure*](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/) enfatizando el nuevo paradigma de computo en la nube sin servidores (*serverless computing*). Como lo plantea el artículo [*Hidden Technical Debt in Machine Learning Systems*](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf), se busca posicionar dentro de los estudiantes de la maestría de ciencia de datos que el modelado de aprendizaje de máquina es solo un componente del un procesos/sistema complejo de ingeniería de software; ya que este suele estar limitiadad en su manutención, mejora y escalamiento debido a la deuda tecnica que suele incurrirse por la falta diseños robustos en arquitecturas de productos de datos.
+Busca dar a los estudiantes un perspectiva holística del ecosistema de infrastrucutura de datos planteado planteado por Matt Bornstein, Martin Casado, y Jennifer Li en su artículo [*Emerging Architectures for Modern Data Infrastructure*](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/) enfatizando el nuevo paradigma de computo en la nube sin servidores (*serverless computing*). 
+
+Además es imperativo contextualizar el trabajo del científico de datos dentro de una organización donde la toma decisiones basada en evidencia es repsonsabilidad de un equipo (de datos) donde los roles de sus integrantes se han especializado en los últimos años para tener cada día responsabilidades y habilidades más especializadas que no solo son responsabilidades del científico de datos. 
+
+Por último, como lo plantea el artículo [*Hidden Technical Debt in Machine Learning Systems*](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf), se busca posicionar el reto de mantener y escalar una arquitectura de producto de datos de aprendizaje de máquina con base en el *trade-off* entre la agilidad de producción y la deuda tecnica que suele incurrirse por la falta diseños robustos en arquitecturas de productos de datos.
 
 
 ### Temario
 1. Introducción a la arquitectura de producto de datos
 2. Innovación con datos
     1. Planteamiento de projecto (project scoping)
-    2. Equipos modernos de Ciencia de Datos: ingeniero de datos, cientifico de datos, investigador ML, inginiero ML
+    2. Equipos modernos de Ciencia de Datos: ingeniero de datos, cientifico de datos, investigador de aprendizaje de máquina, inginiero de aprendizaje de máquina
     3. [Administración y ejecución de productos de datos](https://www.oreilly.com/radar/practical-skills-for-the-ai-product-manager/)
 3. [Arquitecturas modernas de datos]
     1. Inteligencia de Datos/Descriptiva
