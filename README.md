@@ -19,22 +19,25 @@ Se diseñará y desarrollará una arquitectura de producto de datos bajo el aná
     1. Arquitecturas modernas de datos
         - Inteligencia de Datos/Descriptiva
         - Inteligencia Artificial/Predictiva
-    2. Equipos modernos de Ciencia de Datos: ingeniero de datos, cientifico de datos, investigador de aprendizaje de máquina, inginiero de aprendizaje de máquina
+    2. Equipos modernos de Ciencia de Datos: ingeniero de datos, cientifico de datos, investigador de aprendizaje de máquina, inginiero de aprendizaje de máquina, manager de producto AI/ML
     3. [Administración y ejecución de productos de datos](https://www.oreilly.com/radar/practical-skills-for-the-ai-product-manager/)
         - Planteamiento de projecto (project scoping)
         - Trade-off: Agilidad de producción y deuda técnica
     4. Repercusiones y responsabilidades éticas de un producto de datos. 
-2. Infraestructura *severless* en la nube: Google Cloud Platform
+    5. Buenas practicas de programacion: documentación, programación modular, cultura de trabajo
+2. Infraestructura de datos en la nube: Google Cloud Platform
+    - data warehouse vs data lakes
+    - hadoop to serverless
 3. Fuentes de datos: API como caso de uso
 4. Ingeniería y Governanza de Datos: Gestión de Identidades y Accesos (IAM)
 5. ETL vs ELT
 6. Orquestador: Airflow
 7. Almacenamiento (Data Lake): Google Cloud Storage
-8. Almacén de Datos (Data Warehouse): BigQuery
-9. Inteligencia de Datos: Looker
-10. Maquinas Virtuales con aceleradores GPU/TPU
-11. Modelación de Aprendizaje de Maquina en la nube: empaquetamiento de modelo (docker vs python-package)
-12. Ingenieria de datos para grandes volumnes de datos: Apache Beam vs Spark vs Bigquery
+8. Ingenieria de datos para grandes volumnes de datos: Apache Beam vs Spark vs Bigquery
+9. Almacén de Datos (Data Warehouse): BigQuery
+10. Inteligencia de Datos: Looker
+11. Maquinas Virtuales con aceleradores GPU/TPU
+12. Modelación de Aprendizaje de Maquina en la nube: empaquetamiento de modelo (docker vs python-package)
 13. MLOps (CI/CD)
 14. Ingeniería de Aprendizaje de Máquina: Producción 
 15. Monitorización
@@ -72,5 +75,3 @@ Se diseñará y desarrollará una arquitectura de producto de datos bajo el aná
 - Amazon
 - Walmart
 - Nike
-
-
