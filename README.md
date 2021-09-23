@@ -15,6 +15,7 @@ Se diseñará y desarrollará una arquitectura de producto de datos bajo el aná
 
 
 ### Temario
+[Notion](https://www.notion.so/Arquitectura-de-Producto-de-Datos-86e9cc35860f48d1baf0e2feb8962441)
 1. Innovación con datos
     1. Píramide de necesidades de ciencia de datos 
     2. Arquitecturas modernas de datos
