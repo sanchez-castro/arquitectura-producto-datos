@@ -26,8 +26,9 @@ Se diseñará y desarrollará una arquitectura de producto de datos bajo el aná
     4. Repercusiones y responsabilidades éticas de un producto de datos. 
     5. Buenas practicas de programacion: documentación, programación modular, cultura de trabajo
 2. Infraestructura de datos en la nube: Google Cloud Platform
-    - data warehouse vs data lakes
-    - hadoop to serverless
+    - Data warehouse vs Data lakes
+    - Hadoop to serverless
+    - Terraform
 3. Fuentes de datos: API como caso de uso
 4. Ingeniería y Governanza de Datos: Gestión de Identidades y Accesos (IAM)
 5. ETL vs ELT
@@ -37,10 +38,12 @@ Se diseñará y desarrollará una arquitectura de producto de datos bajo el aná
 9. Almacén de Datos (Data Warehouse): BigQuery
 10. Inteligencia de Datos: Looker
 11. Maquinas Virtuales con aceleradores GPU/TPU
-12. Modelación de Aprendizaje de Maquina en la nube: empaquetamiento de modelo (docker vs python-package)
-13. MLOps (CI/CD)
-14. Ingeniería de Aprendizaje de Máquina: Producción 
-15. Monitorización
+12. Modelación de Aprendizaje de Maquina en la nube:
+    - Notebooks vs Py-Script: Sagemaker vs Vertex AI
+    - Empaquetamiento de modelo (Docker vs "Python-package")
+14. MLOps (CI/CD)
+15. Ingeniería de Aprendizaje de Máquina: Producción 
+16. Monitorización
 
 
 ### Principios en la construcción de arquitecturas deproducto de datos 
