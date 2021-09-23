@@ -33,7 +33,7 @@ Se diseñará y desarrollará una arquitectura de producto de datos bajo el aná
     - Governanza de Datos: Gestión de Identidades y Accesos (IAM)
 3. Fuentes de datos: API como caso de uso
 4. ETL vs ELT
-5. Orquestador: Airflow vs Cloud Pipelines (AI Pipelines)
+5. Orquestador: Airflow vs Kubeflow vs Cloud Pipelines (AI Pipelines) 
 6. Almacenamiento (Data Lake): Google Cloud Storage
 7. Ingenieria de datos para grandes volumnes de datos: Apache Beam vs Spark vs Bigquery
 8. Almacén de Datos (Data Warehouse): BigQuery
