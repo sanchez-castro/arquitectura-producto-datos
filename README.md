@@ -16,7 +16,8 @@ Se diseñará y desarrollará una arquitectura de producto de datos bajo el aná
 
 ### Temario
 1. Innovación con datos
-    1. Arquitecturas modernas de datos
+    1. Píramide de necesidades de ciencia de datos 
+    2. Arquitecturas modernas de datos
         - Inteligencia de Datos/Descriptiva
         - Inteligencia Artificial/Predictiva
     2. Equipos modernos de Ciencia de Datos: ingeniero de datos, cientifico de datos, investigador de aprendizaje de máquina, inginiero de aprendizaje de máquina, manager de producto AI/ML
@@ -24,26 +25,27 @@ Se diseñará y desarrollará una arquitectura de producto de datos bajo el aná
         - Planteamiento de projecto (project scoping)
         - Trade-off: Agilidad de producción y deuda técnica
     4. Repercusiones y responsabilidades éticas de un producto de datos. 
-    5. Buenas practicas de programacion: documentación, programación modular, cultura de trabajo
+    5. Buenas practicas de programacion: documentación (GitHub is King), programación modular y cultura de trabajo
 2. Infraestructura de datos en la nube: Google Cloud Platform
     - Data warehouse vs Data lakes
     - Hadoop to serverless
     - Terraform
+    - Governanza de Datos: Gestión de Identidades y Accesos (IAM)
 3. Fuentes de datos: API como caso de uso
-4. Ingeniería y Governanza de Datos: Gestión de Identidades y Accesos (IAM)
-5. ETL vs ELT
-6. Orquestador: Airflow
-7. Almacenamiento (Data Lake): Google Cloud Storage
-8. Ingenieria de datos para grandes volumnes de datos: Apache Beam vs Spark vs Bigquery
-9. Almacén de Datos (Data Warehouse): BigQuery
-10. Inteligencia de Datos: Looker
-11. Maquinas Virtuales con aceleradores GPU/TPU
-12. Modelación de Aprendizaje de Maquina en la nube:
+4. ETL vs ELT
+5. Orquestador: Airflow vs Cloud Pipelines (AI Pipelines)
+6. Almacenamiento (Data Lake): Google Cloud Storage
+7. Ingenieria de datos para grandes volumnes de datos: Apache Beam vs Spark vs Bigquery
+8. Almacén de Datos (Data Warehouse): BigQuery
+9. Inteligencia de Datos: Looker
+10. Maquinas Virtuales con aceleradores GPU/TPU
+11. Modelación de Aprendizaje de Maquina en la nube:
+    - AutmoML como baseline
     - Notebooks vs Py-Script: Sagemaker vs Vertex AI
     - Empaquetamiento de modelo (Docker vs "Python-package")
-14. MLOps (CI/CD)
-15. Ingeniería de Aprendizaje de Máquina: Producción 
-16. Monitorización
+12. MLOps (CI/CD)
+13. Ingeniería de Aprendizaje de Máquina: Producción 
+14. Monitorización: 
 
 
 ### Principios en la construcción de arquitecturas deproducto de datos 
@@ -60,7 +62,7 @@ Se diseñará y desarrollará una arquitectura de producto de datos bajo el aná
     - HDFS is no longer cutting edge
     - Build for the cloud; avoid on-prem
 6. **Build, measure, learn**
-    - Work quickly, iterate often 
+    - Work quickly and iterate often 
 
 ### Recursos adicionales
 1. [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)
