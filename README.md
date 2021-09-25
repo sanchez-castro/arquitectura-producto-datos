@@ -24,8 +24,12 @@ Las clase tendrán un enfoque de ***learning by doing***:
 * La primera sesión de la semana estará enfocada a teoría, discusión en clase y, dependiendo de la clase, se trabajarán algunos ejercicios básicos de programación. 
 * La segunda sesión de la semana estará enfocada a aplicar los conceptos aprendidos en la sesión anterior en un ambiente real en la nube. Se trabajará en un ejemplo *end-to-end* durante la clase para que los alumnos puedan replicarlo en su proyecto final que deberán de ir completando en el transcurso del semestre. 
 
-#### Checkpoints
+#### Formato
+La clase tendrá como objetivo la implementación de un proyecto de "principio a fin" de una arquitectura de producto de datos en la nube a través de ***checkpoints*** de avance durante el transcurso del semestre
+Se formarán equipos de 4 personas que se organizarán durante el primer día de clase de manera aleatoria, pero tomando en cuenta la experiencia y la educación previa de los estudiantes. La idea es tener grupos mixtos de disciplinas y experiencias para reflejar y emular la manera en cómo un científico de datos trabajar en el mundo real laboral. 
 
+
+#### Checkpoints
 Habrán 6 ***checkpoints*** que trendrán que ser reflejados en un repositorio de github. 
 
 1. Definición de projecto en la nube y ambiente de repositorio
@@ -41,9 +45,11 @@ Los 4 puntos restantes serán ponderados a través de una presentación final.
 
 Cada checkpoint y la presentación final serán calculados por rúbricas disponibles a los estudiantes.
 
+
+
 ---
 ## Notas de Clase
-Las notas de clase estarán dispnibles en la plataforma [Notion](https://www.notion.so/product) disponible en la siguiente liga: [Notion: Arquitectura de Producto de Datos ](https://www.notion.so/Arquitectura-de-Producto-de-Datos-86e9cc35860f48d1baf0e2feb8962441). 
+Las notas de clase estarán disponibles en la plataforma [Notion](https://www.notion.so/product) disponible en la siguiente liga: [Notion: Arquitectura de Producto de Datos ](https://www.notion.so/Arquitectura-de-Producto-de-Datos-86e9cc35860f48d1baf0e2feb8962441). 
 
 ## Temario
 1. Innovación con datos
