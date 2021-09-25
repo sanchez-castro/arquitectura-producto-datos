@@ -55,27 +55,38 @@ Las notas de clase estarán dispnibles en la plataforma [Notion](https://www.not
     - Hadoop to serverless
     - Terraform
     - Governanza de Datos: Gestión de Identidades y Accesos (IAM)
+
 **Checkpoint 1*
+
 3. ETL vs ELT
 4. Orquestador: Airflow vs Kubeflow vs Cloud Pipelines (AI Pipelines)
-**Checkpoint 2*
+
+**Checkpoint 2**
+
 5. Fuentes de datos: API como caso de uso
 6. Almacenamiento (Data Lake): Google Cloud Storage
 7. Ingenieria de datos para grandes volumnes de datos: Apache Beam vs Spark vs Bigquery
 8. Almacén de Datos (Data Warehouse): BigQuery
-**Checkpoint 3*
+
+**Checkpoint 3**
+
 9. Inteligencia de Datos: Looker
-**Checkpoint 4*
+
+**Checkpoint 4**
+
 10. Maquinas Virtuales con aceleradores GPU/TPU
 11. Modelación de Aprendizaje de Maquina en la nube:
     - AutmoML como baseline
     - Notebooks vs Py-Script: Sagemaker vs Vertex AI
     - Empaquetamiento de modelo (Docker vs "Python-package")
 12. MLOps (CI/CD)
-**Checkpoint 5*
+
+**Checkpoint 5**
+
 13. Ingeniería de Aprendizaje de Máquina: Producción 
 14. Monitorización
-**Checkpoint 6* 
+
+**Checkpoint 6**
 
 
 ## Principios en la construcción de arquitecturas deproducto de datos 
