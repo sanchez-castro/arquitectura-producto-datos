@@ -78,7 +78,7 @@ Las notas de clase estarán dispnibles en la plataforma [Notion](https://www.not
 **Checkpoint 6* 
 
 
-### Principios en la construcción de arquitecturas deproducto de datos 
+## Principios en la construcción de arquitecturas deproducto de datos 
 
 1. **Choose good data over complex models**
 2. **Don't fight your infrastructure**
@@ -94,16 +94,16 @@ Las notas de clase estarán dispnibles en la plataforma [Notion](https://www.not
 6. **Build, measure, learn**
     - Work quickly and iterate often 
 
-### Recursos adicionales
+## Recursos adicionales
 1. [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)
 2. [Data Science on the Google Cloud Platform](https://www.oreilly.com/library/view/data-science-on/9781491974551/)
 3. [Practical AI on the Google Cloud Platform](https://www.oreilly.com/library/view/practical-ai-on/9781492075806/)
 4. [Google BigQuery: The Definitive Guide](https://www.oreilly.com/library/view/google-bigquery-the/9781492044451/)
 
-### Instructores
+## Instructores
 La clase será impartida por **[Adrian Sanchez-Castro](https://www.linkedin.com/in/sanchez-castro/)** científico de datos líder de Walmart y **[Jake Klein](https://www.linkedin.com/in/jake-klein-180498b9/)** ingeniero de datos senior de Walmart. 
 
-### Organizaciones invitadas a dar *Perspectivas* sobre productos de datos
+## Organizaciones invitadas a dar *Perspectivas* sobre productos de datos
 - Google Brain
 - Twitter
 - New York Times
