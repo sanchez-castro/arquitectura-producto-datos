@@ -35,9 +35,10 @@ Habrán 6 *checkpoints* que trendrán que ser reflejados en un repositorio de gi
 6. Producción y monitorización
 
 ---
+## Notas de Clase
+Las notas de clase estarán dispnibles en la plataforma [Notion](https://www.notion.so/product) disponible en la siguiente liga: [Notion: Arquitectura de Producto de Datos ](https://www.notion.so/Arquitectura-de-Producto-de-Datos-86e9cc35860f48d1baf0e2feb8962441). 
 
 ## Temario
-[Notion](https://www.notion.so/Arquitectura-de-Producto-de-Datos-86e9cc35860f48d1baf0e2feb8962441)
 1. Innovación con datos
     1. Píramide de necesidades de ciencia de datos 
     2. Arquitecturas modernas de datos
@@ -100,7 +101,7 @@ Habrán 6 *checkpoints* que trendrán que ser reflejados en un repositorio de gi
 4. [Google BigQuery: The Definitive Guide](https://www.oreilly.com/library/view/google-bigquery-the/9781492044451/)
 
 ### Instructores
-**[Adrian Sanchez-Castro](https://www.linkedin.com/in/sanchez-castro/) & [Jake Klein](https://www.linkedin.com/in/jake-klein-180498b9/)**
+La clase será impartida por **[Adrian Sanchez-Castro](https://www.linkedin.com/in/sanchez-castro/)** científico de datos líder de Walmart y **[Jake Klein](https://www.linkedin.com/in/jake-klein-180498b9/)** ingeniero de datos senior de Walmart. 
 
 ### Organizaciones invitadas a dar *Perspectivas* sobre productos de datos
 - Google Brain
