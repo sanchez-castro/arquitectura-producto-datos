@@ -2,6 +2,7 @@
 
 Esta clase tiene como objetivo brindar una introducción a la ingeniería de datos e ingeniería de aprenizaje de máquina para científicos de datos tomando en cuenta las últimas practicas y tecnologías mayormente adoptadas y validadas por las empresas tecnológicas más maduras del mundo.
 
+## Aproximación de la materia
 El objetivo es **(1)** dar una perspectiva holística del ecosistema de infrastructura de datos actualizada, **(2)** contextualizar el trabajo del científico de datos dentro de una organización y **(3)** desarrollar las habilidades necesarias para diseñar e implementar una infraestructura de datos escalabale para resolver un problema de negocio.
 
 ### Perspectiva holística del ecosistema de infrastructura de datos
@@ -13,8 +14,29 @@ Se contextualizará el trabajo del científico de datos dentro de una organizaci
 ### Trade-off entre agilidad de producción y deuda técnica
 Se diseñará y desarrollará una arquitectura de producto de datos bajo el análisis del *trade-off* entre la agilidad de producción y la deuda técnica que suele incurrirse por la falta diseños robustos para la manutención y escalamiento de arquitecturas de productos de datos. Inspirado en el debate presentado en el artículo [*Hidden Technical Debt in Machine Learning Systems*](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) por investigadores del equipo de Google . 
 
+---
+## Formato de enseñanza
+#### Horario
+Martes y Jueves 7.30-9.00 AM 
 
-### Temario
+#### *Learning by doing*
+* La clase será impartida durante dos clases de 1.5 horas por clase con un break de 5-7 minutos. 
+* La primera sesión de la semana estará enfocada a teoría, discusión en clase y, dependiendo de la clase, se trabajarán algunos ejercicios básicos de programación. 
+* La segunda sesión de la semana estará enfocada a aplicar los conceptos aprendidos en la sesión anterior. Se trabajará en un ejemplo *end-to-end* durante la clase para que los alumnos puedan replicarlo en su proyecto final que deberán de ir completando en el transcurso del semestre. 
+
+#### *Checkpoints*
+Habrán 6 *checkpoints* que trendrán que ser reflejados en un repositorio de github:
+
+1. Definición de projecto en la nube y ambiente de repositorio
+2. Configuración de DAG y puesta en marcha
+3. Extracción y Carga de datos provenientes de API
+4. Transformación y analítica de datos descriptiva
+5. Feture Engineering y modelado en la nube
+6. Producción y monitorización
+
+---
+
+## Temario
 [Notion](https://www.notion.so/Arquitectura-de-Producto-de-Datos-86e9cc35860f48d1baf0e2feb8962441)
 1. Innovación con datos
     1. Píramide de necesidades de ciencia de datos 
@@ -27,26 +49,32 @@ Se diseñará y desarrollará una arquitectura de producto de datos bajo el aná
         - Trade-off: Agilidad de producción y deuda técnica
     4. Repercusiones y responsabilidades éticas de un producto de datos. 
     5. Buenas practicas de programacion: documentación (GitHub is King), programación modular y cultura de trabajo
-2. Infraestructura de datos en la nube: Google Cloud Platform
+2. Infraestructura de datos en la nube: Google Cloud Platform: la perfecta terna -almacenamiento de objetos, máquinas virtuales, almacén de datos
     - Data warehouse vs Data lakes
     - Hadoop to serverless
     - Terraform
     - Governanza de Datos: Gestión de Identidades y Accesos (IAM)
-3. Fuentes de datos: API como caso de uso
-4. ETL vs ELT
-5. Orquestador: Airflow vs Kubeflow vs Cloud Pipelines (AI Pipelines) 
+**Checkpoint 1*
+3. ETL vs ELT
+4. Orquestador: Airflow vs Kubeflow vs Cloud Pipelines (AI Pipelines)
+**Checkpoint 2*
+5. Fuentes de datos: API como caso de uso
 6. Almacenamiento (Data Lake): Google Cloud Storage
 7. Ingenieria de datos para grandes volumnes de datos: Apache Beam vs Spark vs Bigquery
 8. Almacén de Datos (Data Warehouse): BigQuery
+**Checkpoint 3*
 9. Inteligencia de Datos: Looker
+**Checkpoint 4*
 10. Maquinas Virtuales con aceleradores GPU/TPU
 11. Modelación de Aprendizaje de Maquina en la nube:
     - AutmoML como baseline
     - Notebooks vs Py-Script: Sagemaker vs Vertex AI
     - Empaquetamiento de modelo (Docker vs "Python-package")
 12. MLOps (CI/CD)
+**Checkpoint 5*
 13. Ingeniería de Aprendizaje de Máquina: Producción 
-14. Monitorización: 
+14. Monitorización
+**Checkpoint 6* 
 
 
 ### Principios en la construcción de arquitecturas deproducto de datos 
