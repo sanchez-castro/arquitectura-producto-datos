@@ -43,7 +43,8 @@ Habrán 6 ***checkpoints*** que trendrán que ser reflejados en un repositorio d
 #### Evaluación
 * Cada checkpoint contruibirá a un punto de la calificación total. Entre ellos podrán sumar un total de 6 de los diez puntos de calificación.
 * Los 4 puntos restantes serán ponderados a través de una presentación final.  
-* Cada checkpoint y la presentación final serán calculados por rúbricas disponibles a los estudiantes.
+
+\**Cada checkpoint y la presentación final serán calculados por rúbricas disponibles a los estudiantes.
 
 
 
