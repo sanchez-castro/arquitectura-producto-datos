@@ -24,8 +24,9 @@ Martes y Jueves 7.30-9.00 AM
 * La primera sesión de la semana estará enfocada a teoría, discusión en clase y, dependiendo de la clase, se trabajarán algunos ejercicios básicos de programación. 
 * La segunda sesión de la semana estará enfocada a aplicar los conceptos aprendidos en la sesión anterior en un ambiente real en la nube. Se trabajará en un ejemplo *end-to-end* durante la clase para que los alumnos puedan replicarlo en su proyecto final que deberán de ir completando en el transcurso del semestre. 
 
-#### *Checkpoints*
-Habrán 6 *checkpoints* que trendrán que ser reflejados en un repositorio de github:
+#### Checkpoints
+
+Habrán 6 ***checkpoints*** que trendrán que ser reflejados en un repositorio de github. 
 
 1. Definición de projecto en la nube y ambiente de repositorio
 2. Configuración de DAG y puesta en marcha
@@ -33,6 +34,12 @@ Habrán 6 *checkpoints* que trendrán que ser reflejados en un repositorio de gi
 4. Transformación y analítica de datos descriptiva
 5. Feture Engineering y modelado en la nube
 6. Producción y monitorización
+
+#### Evaluación
+Cada checkpoint contruibirá a un punto de la calificación total. Entre ellos podrán sumar un total de 6 de los diez puntos de calificación.
+Los 4 puntos restantes serán ponderados a través de una presentación final.  
+
+Cada checkpoint y la presentación final serán calculados por rúbricas disponibles a los estudiantes.
 
 ---
 ## Notas de Clase
