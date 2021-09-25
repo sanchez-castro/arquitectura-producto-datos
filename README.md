@@ -19,7 +19,7 @@ Se diseñará y desarrollará una arquitectura de producto de datos bajo el aná
 #### Horario
 Martes y Jueves 7.30-9.00 AM 
 
-#### *Learning by doing*
+Las clase tendrán un enfoque de ***learning by doing***:
 * La clase será impartida durante dos clases de 1.5 horas por clase con un break de 5-7 minutos. 
 * La primera sesión de la semana estará enfocada a teoría, discusión en clase y, dependiendo de la clase, se trabajarán algunos ejercicios básicos de programación. 
 * La segunda sesión de la semana estará enfocada a aplicar los conceptos aprendidos en la sesión anterior en un ambiente real en la nube. Se trabajará en un ejemplo *end-to-end* durante la clase para que los alumnos puedan replicarlo en su proyecto final que deberán de ir completando en el transcurso del semestre. 
