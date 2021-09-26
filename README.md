@@ -64,9 +64,10 @@ Las notas de clase estarán disponibles en la plataforma [Notion](https://www.no
         - Trade-off: Agilidad de producción y deuda técnica
     4. Repercusiones y responsabilidades éticas de un producto de datos. 
     5. Buenas practicas de programacion: documentación (GitHub is King), programación modular y cultura de trabajo
-2. Infraestructura de datos en la nube: Google Cloud Platform: la perfecta terna -almacenamiento de objetos, máquinas virtuales, almacén de datos
-    - Data warehouse vs Data lakes
-    - Hadoop to serverless
+2. Infraestructura de datos en la nube: almacén de objetos, máquinas virtuales, almacén de datos
+    - AWS, GCP, Azure, Databricks y otras "ML platforms"
+    - Aproximación de ciencia de datos en la nube: Data warehouse vs Data lakes
+    - Hadoop vs Serverless
     - Terraform
     - Governanza de Datos: Gestión de Identidades y Accesos (IAM)
 
