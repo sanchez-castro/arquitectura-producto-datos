@@ -121,10 +121,17 @@ Las notas de clase estarán disponibles en la plataforma [Notion](https://www.no
     - Work quickly and iterate often 
 
 ## Recursos adicionales
+
+#### Libros
 1. [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)
 2. [Data Science on the Google Cloud Platform](https://www.oreilly.com/library/view/data-science-on/9781491974551/)
 3. [Practical AI on the Google Cloud Platform](https://www.oreilly.com/library/view/practical-ai-on/9781492075806/)
 4. [Google BigQuery: The Definitive Guide](https://www.oreilly.com/library/view/google-bigquery-the/9781492044451/)
+
+#### Web
+1. https://technically.dev
+2. https://www.kaggle.com/learn
+
 
 ## Instructores
 La clase será impartida por **[Adrian Sanchez-Castro](https://www.linkedin.com/in/sanchez-castro/)** científico de datos líder de Walmart y **[Jake Klein](https://www.linkedin.com/in/jake-klein-180498b9/)** ingeniero de datos senior de Walmart. 
