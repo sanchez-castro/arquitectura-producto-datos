@@ -37,7 +37,7 @@ Habrán 6 ***checkpoints*** que trendrán que ser reflejados en un repositorio d
 2. Configuración de DAG y puesta en marcha
 3. Extracción y Carga de datos provenientes de API
 4. Transformación y analítica de datos descriptiva
-5. Feture Engineering y modelado en la nube
+5. Feature Engineering y modelado en la nube
 6. Producción y monitorización
 
 #### Evaluación
