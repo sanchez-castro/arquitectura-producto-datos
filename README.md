@@ -54,16 +54,20 @@ Las notas de clase estarán disponibles en la plataforma [Notion](https://www.no
 
 ## Temario
 1. Innovación con datos
-    1. Píramide de necesidades de ciencia de datos 
-    2. Arquitecturas modernas de datos
+    1. Misión de la organización y problema de negocio
+        - Andrew Ng: [Forget about building an AI-first business. Start with a mission](https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/)
+        - Cassie Kozyrkov: [Decision intelligence: Why do business fail at Machine Learning? (https://www.youtube.com/watch?v=dRJGyhS6gA0)
+        - Ines Montani: [How to Translate Problems into Solutions: Applied NLP](https://explosion.ai/blog/applied-nlp-thinking)
+    2. Píramide de necesidades de ciencia de datos 
+    3. Arquitecturas modernas de datos
         - Inteligencia de Datos/Descriptiva
         - Inteligencia Artificial/Predictiva
-    2. Equipos modernos de Ciencia de Datos: ingeniero de datos, cientifico de datos, investigador de aprendizaje de máquina, inginiero de aprendizaje de máquina, manager de producto AI/ML
-    3. [Administración y ejecución de productos de datos](https://www.oreilly.com/radar/practical-skills-for-the-ai-product-manager/)
+    4. Equipos modernos de Ciencia de Datos: ingeniero de datos, cientifico de datos, investigador de aprendizaje de máquina, inginiero de aprendizaje de máquina, manager de producto AI/ML
+    5. [Administración y ejecución de productos de datos](https://www.oreilly.com/radar/practical-skills-for-the-ai-product-manager/)
         - Planteamiento de projecto (project scoping)
         - Trade-off: Agilidad de producción y deuda técnica
-    4. Repercusiones y responsabilidades éticas de un producto de datos. 
-    5. Buenas practicas de programacion: documentación (GitHub is King), programación modular y cultura de trabajo
+    6. Repercusiones y responsabilidades éticas de un producto de datos. 
+    7. Buenas practicas de programacion: documentación (GitHub is King), programación modular y cultura de trabajo
 2. Infraestructura de datos en la nube: almacén de objetos, máquinas virtuales, almacén de datos
     - AWS, GCP, Azure, Databricks y otras "ML platforms"
     - Aproximación de ciencia de datos en la nube: Data warehouse vs Data lakes
