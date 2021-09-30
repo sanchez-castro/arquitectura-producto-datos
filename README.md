@@ -1,6 +1,6 @@
 # Temario Arquitectura de Producto de Datos | ITAM  | Primavera 2022
 
-Esta clase tiene como objetivo brindar una introducción a la ingeniería de datos e ingeniería de aprenizaje de máquina para científicos de datos tomando en cuenta las últimas practicas y tecnologías mayormente adoptadas y validadas por las empresas tecnológicas más maduras del mundo.
+Esta clase tiene como objetivo brindar una introducción a la ingeniería de datos e ingeniería de aprendizaje de máquina para científicos de datos tomando en cuenta las últimas prácticas y tecnologías mayormente adoptadas y validadas por las empresas tecnológicas más maduras del mundo.
 
 ## Aproximación de la materia
 El objetivo es **(1)** dar una perspectiva holística del [ecosistema de infrastructura de datos actualizada](https://mattturck.com/data2021/), **(2)** contextualizar el trabajo del científico de datos dentro de una organización y **(3)** desarrollar las habilidades necesarias para diseñar e implementar una infraestructura de datos escalabale para resolver un problema de negocio con base en los siguientes pilares:
@@ -9,7 +9,7 @@ El objetivo es **(1)** dar una perspectiva holística del [ecosistema de infrast
 Se estudirá el ciclo de ingeniería de datos a través del análisis "Arquitecturas Modernas de Infrastructura de Datos" planteado por Matt Bornstein, Martin Casado, y Jennifer Li en su artículo [*Emerging Architectures for Modern Data Infrastructure*](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/) enfatizando el nuevo paradigma de computo en la nube sin servidores (*serverless computing*) y el surgimiento de Servicios de Software (SaaS) auto-gestionables (self-managed) especializados en sistemas de analítica de datos y de operación de aprendizaje de máquina.
 
 ### 2) El rol del científico de datos dentro de una organización
-Se contextualizará el trabajo del científico de datos dentro de una organización, donde la toma decisiones basada en evidencia es repsonsabilidad de un equipo (de datos) cuyos roles se han especializado en los últimos años para tener responsabilidades y habilidades más enfocadas y específicas dentro del ciclo de ingeniería de datos. 
+Se contextualizará el trabajo del científico de datos dentro de una organización, donde la toma decisiones, basada en evidencia, es responsabilidad de un equipo (de datos) cuyos roles se han especializado en los últimos años para tener responsabilidades y habilidades más enfocadas y específicas dentro del ciclo de ingeniería de datos. 
 
 ### 3) Trade-off entre agilidad de producción y deuda técnica
 Se diseñará y desarrollará una arquitectura de producto de datos bajo el análisis del *trade-off* entre la agilidad de producción y la deuda técnica que suele incurrirse por la falta diseños robustos para la manutención y escalamiento de arquitecturas de productos de datos. Inspirado en el debate presentado en el artículo [*Hidden Technical Debt in Machine Learning Systems*](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) por investigadores del equipo de Google . 
@@ -137,6 +137,7 @@ Las notas de clase estarán disponibles en la plataforma [Notion](https://www.no
 #### Web
 1. https://technically.dev
 2. https://www.kaggle.com/learn
+3. https://missing.csail.mit.edu/
 
 
 ## Instructores
