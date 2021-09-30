@@ -1,15 +1,15 @@
 # Temario Arquitectura de Producto de Datos | ITAM  | Primavera 2022
 
-Esta clase tiene como objetivo brindar una introducción a la ingeniería de datos e ingeniería de aprenizaje de máquina para científicos de datos tomando en cuenta las últimas practicas y tecnologías mayormente adoptadas y validadas por las empresas tecnológicas más maduras del mundo.
+Esta clase tiene como objetivo brindar una introducción a la ingeniería de datos e ingeniería de aprendizaje de máquina para científicos de datos tomando en cuenta las últimas prácticas y tecnologías mayormente adoptadas y validadas por las empresas tecnológicas más maduras del mundo.
 
 ## Aproximación de la materia
-El objetivo es **(1)** dar una perspectiva holística del [ecosistema de infrastructura de datos actualizada](https://mattturck.com/data2021/), **(2)** contextualizar el trabajo del científico de datos dentro de una organización y **(3)** desarrollar las habilidades necesarias para diseñar e implementar una infraestructura de datos escalabale para resolver un problema de negocio con base en los siguientes pilares:
+El objetivo es **(1)** dar una perspectiva holística del [ecosistema de infrastructura de datos actualizada](https://mattturck.com/data2021/), **(2)** contextualizar el trabajo del científico de datos dentro de una organización y **(3)** desarrollar las habilidades necesarias para diseñar e implementar una infraestructura de datos escalabale para resolver un problema de negocio con base en los pilares anteriormente mencionados.
 
 ### 1) Perspectiva holística del ecosistema de infrastructura de datos
-Se estudirá el ciclo de ingeniería de datos a través del análisis "Arquitecturas Modernas de Infrastructura de Datos" planteado por Matt Bornstein, Martin Casado, y Jennifer Li en su artículo [*Emerging Architectures for Modern Data Infrastructure*](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/) enfatizando el nuevo paradigma de computo en la nube sin servidores (*serverless computing*) y el surgimiento de Servicios de Software (SaaS) auto-gestionables (self-managed) especializados en sistemas de analítica de datos y de operación de aprendizaje de máquina.
+Se estudiará el ciclo de ingeniería de datos a través del análisis "Arquitecturas Modernas de Infraestructura de Datos" planteado por Matt Bornstein, Martin Casado, y Jennifer Li en su artículo [*Emerging Architectures for Modern Data Infrastructure*](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/) enfatizando el nuevo paradigma de cómputo en la nube sin servidores (*serverless computing*) y el surgimiento de Servicios de Software (SaaS) auto-gestionables (self-managed) especializados en sistemas de análisis de datos y de operación de aprendizaje de máquina.
 
 ### 2) El rol del científico de datos dentro de una organización
-Se contextualizará el trabajo del científico de datos dentro de una organización, donde la toma decisiones basada en evidencia es repsonsabilidad de un equipo (de datos) cuyos roles se han especializado en los últimos años para tener responsabilidades y habilidades más enfocadas y específicas dentro del ciclo de ingeniería de datos. 
+Se contextualizará el trabajo del científico de datos dentro de una organización, donde la toma decisiones, basada en evidencia, es la tarea principal de un equipo (de datos) cuyos roles se han especializado en los últimos años para tener responsabilidades y habilidades más enfocadas y específicas dentro del ciclo de ingeniería de datos. 
 
 ### 3) Trade-off entre agilidad de producción y deuda técnica
 Se diseñará y desarrollará una arquitectura de producto de datos bajo el análisis del *trade-off* entre la agilidad de producción y la deuda técnica que suele incurrirse por la falta diseños robustos para la manutención y escalamiento de arquitecturas de productos de datos. Inspirado en el debate presentado en el artículo [*Hidden Technical Debt in Machine Learning Systems*](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) por investigadores del equipo de Google . 
@@ -62,13 +62,13 @@ Las notas de clase estarán disponibles en la plataforma [Notion](https://www.no
     3. Arquitecturas modernas de datos
         - Inteligencia de Datos/Descriptiva
         - Inteligencia Artificial/Predictiva
-    4. Equipos modernos de Ciencia de Datos: ingeniero de datos, cientifico de datos, investigador de aprendizaje de máquina, inginiero de aprendizaje de máquina, manager de producto AI/ML
+    4. Equipos modernos de Ciencia de Datos: ingeniero de datos, científico de datos, investigador de aprendizaje de máquina, ingeniero de aprendizaje de máquina, manager de producto AI/ML
     5. [Administración y ejecución de productos de datos](https://www.oreilly.com/radar/practical-skills-for-the-ai-product-manager/)
         - Planteamiento de projecto (project scoping)
         - Trade-off: Agilidad de producción y deuda técnica
     6. Repercusiones y responsabilidades éticas de un producto de datos. 
-    7. Buenas practicas de programacion: documentación (GitHub is King), programación modular y cultura de trabajo
-2. Infraestructura de datos en la nube: almacén de objetos, máquinas virtuales, almacén de datos
+    7. Buenas prácticas de programación: documentación (GitHub is King), programación modular y cultura de trabajo.
+2. Infraestructura de datos en la nube: almacén de objetos, máquinas virtuales, almacén de datos.
     - AWS, GCP, Azure, Databricks y otras "ML platforms"
     - Aproximación de ciencia de datos en la nube: Data warehouse vs Data lakes
     - Hadoop vs Serverless
@@ -84,7 +84,7 @@ Las notas de clase estarán disponibles en la plataforma [Notion](https://www.no
 
 5. Fuentes de datos: API como caso de uso
 6. Almacenamiento (Data Lake): Google Cloud Storage
-7. Ingenieria de datos para grandes volumnes de datos: Apache Beam vs Spark vs Bigquery
+7. Ingeniería de datos para grandes volúmenes de datos: Apache Beam vs Spark vs Bigquery
 8. Almacén de Datos (Data Warehouse): BigQuery
 
 >Checkpoint 3
@@ -93,8 +93,8 @@ Las notas de clase estarán disponibles en la plataforma [Notion](https://www.no
 
 >Checkpoint 4
 
-10. Maquinas Virtuales con aceleradores GPU/TPU
-11. Modelación de Aprendizaje de Maquina en la nube:
+10. Máquinas Virtuales con aceleradores GPU/TPU
+11. Modelación de Aprendizaje de Máquina en la nube:
     - AutmoML como baseline
     - Notebooks vs Py-Script: Sagemaker vs Vertex AI
     - Empaquetamiento de modelo (Docker vs "Python-package")
@@ -137,6 +137,7 @@ Las notas de clase estarán disponibles en la plataforma [Notion](https://www.no
 #### Web
 1. https://technically.dev
 2. https://www.kaggle.com/learn
+3. https://missing.csail.mit.edu/
 
 
 ## Instructores
