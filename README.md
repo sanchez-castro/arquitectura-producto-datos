@@ -150,3 +150,10 @@ La clase será impartida por **[Adrian Sanchez-Castro](https://www.linkedin.com/
 - Amazon
 - Walmart
 - Nike
+
+## Revisión y retroalimentación
+- Memo González - Ingeniero de Aprendizaje de Maquina - Google
+- Anders Christiansen - VP de Ciencia de Datos - Kavak
+- Alejandra Garay - Ingeniera de Datos Lead - Cinépolis
+- Gustavo Salaiz - Director de Datos - Albo
+- Gerardo Mathus - Director de Ingeniería - Nextia
