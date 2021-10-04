@@ -144,7 +144,7 @@ Las notas de clase estarán disponibles en la plataforma [Notion](https://www.no
 La clase será impartida por **[Adrian Sanchez-Castro](https://www.linkedin.com/in/sanchez-castro/)** científico de datos líder de Walmart y **[Jake Klein](https://www.linkedin.com/in/jake-klein-180498b9/)** ingeniero de datos senior de Walmart. 
 
 ## Organizaciones invitadas a dar *Perspectivas* sobre productos de datos
-- Google Brain
+- Google
 - Twitter
 - New York Times
 - Amazon
