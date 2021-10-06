@@ -8,7 +8,8 @@
 - Traduce planes arquitectónicos en un diseño de grafo acíclico dirigido para ser ejecutado por un orqueestador
 - Implementa producto de datos funcioanales en la nube para aplicaciones de analiítica descriptiva y predictiva. 
 
-
+---
+### Competencias por tópico
 
 #### 1. Arquitectura de Producto de datos
 - El alumno aproxima el diseño de producto de datos con base en la mision y problema de negocio
