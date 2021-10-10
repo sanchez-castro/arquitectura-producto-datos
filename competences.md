@@ -11,48 +11,53 @@
 ---
 ## Competencias por tópico
 
-#### 1. Arquitectura de Producto de datos
+#### 1. ¿Por qué construir productos de datos?
+- El alumno conoce el rol de un producto de datos en una organización
+- El alumno es un pensador crítico qué es capaz de evaluar el triage del problema y el impacto de una solución de producto de datos.
 - El alumno aproxima el diseño de producto de datos con base en la mision y problema de negocio
-- El alumno conoce el proceso de un producto de datos y las aplicaciones dentro de un organización
+
+
+#### 2. Arquitectura de Producto de datos
+- El alumno conoce el proceso de diseñar un producto de datos y evaluar el trade-off de implementación-deuda técnica de una organización
 - El alumno es capaz de plantear el alcance, amplitud y extensión de un producto de datos.
 - El alumno conoce los riesgos e implicaciones del impacto de un producto exitoso/fallido.
 
 
-#### 2. Infraestructura de datos en la nube: máquinas virtuales, almacén de objetos, y almacén de datos.
+#### 3. Infraestructura de datos en la nube: máquinas virtuales, almacén de objetos, y almacén de datos.
 - El alumno conoce las distintas plataformas de servicios de infrastructura de datos en la nube. 
 - El alumno es capaz de interactuar con los servicios básicos de almacenaje y procesamiento en la nube. 
 - El alumno explica y demuestra el entendimiento de abstracciones de infrastructura de datos como "serverless", "Managed SaaS"
 - El alumno es conoce los retos para estructurar un proyecto en la nube tanto tecnicos como no tecnicos. 
 
 
-#### 3. Máquinas Virtuales y aceleradores GPU/TPU
-- El alumno conoce el usdo de máquinas virtuales en la nube para ciencia de datos
+#### 4. Máquinas Virtuales y aceleradores GPU/TPU
+- El alumno conoce el uso de máquinas virtuales en la nube para ciencia de datos
 - El alumno es capaz de crear máquinas virtuales con aceleradores para trabajos de modelado de aprendizaje de máquina en la nube.
 - El alumno es capaz de comunicarse vía remota a una máquina virtual y ejecutar scripts de modelados de aprendizaje de máquina autoescalables. 
 
 
-#### 4. Fuentes de datos: API como caso de uso
+#### 5. Fuentes de datos: API como caso de uso
 - El alumno tiene un conocimiento general del uso de las APIs dentro del ecosistema de ciencia de datos.
 - El alumno es capaz de investigar y conocer el uso general de una API.
 - El alumno es capaz de establecer una comunicación constante en la nuba para la recolección de datos a través de una API.
 - El alumno es capaz de ingestar datos y cargar datos en la nube
 
 
-#### 5. Almacenamiento (Data Lake): Google Cloud Storage
+#### 6. Almacenamiento (Data Lake): Google Cloud Storage
 - El alumno es capaz de crear cubetas de almacenaje en la nube.
 - El alumno entiende las políticas de permisos para compartir datos en la nube. 
 - El alumno es capaz de cargar distintos tipos de archivos. 
 - El alumno conoce las alternativas de almacenamiento. 
 
 
-#### 6. ETL vs ELT y el nuevo paradigma de MLOps
+#### 7. ETL vs ELT y el nuevo paradigma de MLOps
 - El alumno puede dicernir entre la aplicación de un ETL y un ELT. 
 - El alumno reconoce las distintas aplicaciones de extracción, transformación y carga para distintos problemas de negocio.
 - El alumno conoce las tecnologías disponibles para hacer una ingesta de grandes volumnes de datos. 
 - El alumno es capaz de diseñar un sistema que involucra la extracción, transformación y carga con servicios de infrastructura de nube. 
 
 
-#### 7. Orquestador: Airflow vs Kubeflow vs Cloud Pipelines (AI Pipelines)
+#### 8. Orquestador: Airflow vs Kubeflow vs Cloud Pipelines (AI Pipelines)
 - El alumno tiene un conocimiento general de los distintas tecnologias y aproximaciones de orquestación para el tratamiento de datos 
 - El alumno es capaz de poner en marcha Airflow como orquestador auto-manejado en la nube
 - El alumno diseña archivos de grafos acíclicos dirigidos a través de operadores.
@@ -62,19 +67,19 @@
 ---
 
 ### Analítica de Datos de Analítica Descriptiva
-#### 8. Ingeniería de datos para grandes volúmenes de datos: Apache Beam vs Spark vs Bigquery
+#### 9. Ingeniería de datos para grandes volúmenes de datos: Apache Beam vs Spark vs Bigquery
 - El alumno conoce distintos motores de procesamiento de datos utilizados para grandes volumnes de datos
 - El almuno es capaz de ejecutar procesos de transformaciones para grandes volumnes de datos. 
 
 
-#### 9. Almacén de Datos (Data Warehouse): BigQuery
+#### 10. Almacén de Datos (Data Warehouse): BigQuery
 - El alumno conoce el uso de caso de un Almacén de Datos
 - El alumno conoce las capacidades generales de un almacén de datos moderno
 - El alumno es capaz de ejecutar queries de lectura y de transformación en bases de datos relacionales
 - El alumno es capaz de ejecutar queries de modelado utilizando BigQuery ML
 
 
-#### 10. Inteligencia de Datos: Looker
+#### 11. Inteligencia de Datos: Looker
 - El alumno conoce el uso de caso de inteligencia de negocio basado en analítica descriptiva
 - El alumno es capaz de poner en marcha una instancia de Looker conectada a un almacén de datos 
 - El alumno desarrolla vistas, exploradores y dashboards utilizando Looker
@@ -82,15 +87,15 @@
 ---
 
 ### Arquitectura de Datos de Analítica Predictiva
-#### 11. MLOps
+#### 12. MLOps
 - El alumno conoce el paradigma de MLOps y las nuevas herramientas de lineaje de modelos
 - El alumno es capaz de aplicar conoceptos de registro de modelo, almacenaje de features
 
-#### 12. Ingeniería de Aprendizaje de Máquina: Producción
+#### 13. Ingeniería de Aprendizaje de Máquina: Producción
 - El alumno conoce las vías de producción-prediccion 
 - El alumno es capaz de generar predicciones en tiempo real.
 
-#### 13. Unit testing y Monitorización
+#### 14. Unit testing y Monitorización
 - El alumno es capaz de poner en marcha un API de consumo en la nube.
 - El alumno es capaz de poner hacer unit testing para comprobar el funcionamiento de un modelo de aprendizaje de máquina.
 - El alumno es capaz de tener información en tiempo real del funcionamiento del modelo en producción.
