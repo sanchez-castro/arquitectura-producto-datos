@@ -57,6 +57,7 @@ Las notas de clase estarán disponibles en la plataforma [Notion](https://www.no
     1. Misión de la organización y problema de negocio
         - Andrew Ng: [Forget about building an AI-first business. Start with a mission](https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/)
         - Cassie Kozyrkov: [Decision intelligence: Why do business fail at Machine Learning?](https://www.youtube.com/watch?v=dRJGyhS6gA0)
+        - Lutz Finer: What is the objective function you are trying to optimze with ML?**
         - Ines Montani: [How to Translate Problems into Solutions: Applied NLP](https://explosion.ai/blog/applied-nlp-thinking)
     2. Píramide de necesidades de ciencia de datos 
     3. Arquitecturas modernas de datos
