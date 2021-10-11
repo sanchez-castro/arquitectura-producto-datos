@@ -14,28 +14,17 @@
 #### 1. ¿Por qué construir productos de datos?
 
 - El alumno conoce el etos de una organización/startup.
-    - [The Learn Startup, Chapter 1: Start, Chapter 2: Define](https://www.getstoryshots.com/books/the-lean-startup-summary/#PART_1_Vision)
-   
 - El alumno aproxima el diseño de producto de datos con base en la mision y problema de negocio.
-    - Andrew Ng: [Forget about building an AI-first business. Start with a mission](https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/)
-
 - El alumno conoce el rol de un producto de datos en una organización.
-    - [When Data Creates Competitive Advantage](https://hbr.org/2020/01/when-data-creates-competitive-advantage)
-    
-    ***Analítica de datos***
-    - [Don't Let Metrics (Data) Underimne your Business (version 1) ](https://sloanreview.mit.edu/article/dont-let-metric-critics-undermine-your-business/)
-    - [Don't Let Metrics (Data) Underimne your Business (version 2)](https://hbr.org/2019/09/dont-let-metrics-undermine-your-business)
-    
-   
-    ***Operalización de analítica***
-    - [https://hbr.org/2020/01/competing-in-the-age-of-ai](Competing in the Age of AI)
-   
-    ***Arquitecturas modernas de datos***
-    - [*Emerging Architectures for Modern Data Infrastructure*](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
-
 - El alumno es un pensador crítico qué es capaz de evaluar el triage del problema y el impacto de una solución de producto de datos.
 
-
+    - [The Learn Startup, Chapter 1: Start, Chapter 2: Define](https://www.getstoryshots.com/books/the-lean-startup-summary/#PART_1_Vision)
+    - [Forget about building an AI-first business. Start with a mission](https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/)
+    - [When Data Creates Competitive Advantage](https://hbr.org/2020/01/when-data-creates-competitive-advantage)
+    - [Don't Let Metrics (Data) Underimne your Business (version 1) ](https://sloanreview.mit.edu/article/dont-let-metric-critics-undermine-your-business/)
+    - [Don't Let Metrics (Data) Underimne your Business (version 2)](https://hbr.org/2019/09/dont-let-metrics-undermine-your-business)
+    - [https://hbr.org/2020/01/competing-in-the-age-of-ai](Competing in the Age of AI)
+    - [*Emerging Architectures for Modern Data Infrastructure*](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
 
 #### 2. Arquitectura de Producto de datos
