@@ -20,14 +20,14 @@ Se diseñará y desarrollará una arquitectura de producto de datos bajo el aná
 Martes y Jueves 7.30-9.00 AM 
 
 Las clase tendrán un enfoque de ***learning by doing***:
-* La clase será impartida durante dos clases de 1.5 horas por clase con un break de 5-7 minutos. 
+* La clase será impartida durante dos sesiones de 1.5 horas por clase con un break de 5-7 minutos. 
 * La primera sesión de la semana estará enfocada a teoría, discusión en clase y, dependiendo de la clase, se trabajarán algunos ejercicios básicos de programación. 
 * La segunda sesión de la semana estará enfocada a aplicar los conceptos aprendidos en la sesión anterior en un ambiente real en la nube. Se trabajará en un ejemplo *end-to-end* durante la clase para que los alumnos puedan replicarlo en su proyecto final que deberán de ir completando en el transcurso del semestre. 
 
 #### Formato
 La clase tendrá como objetivo la implementación de un proyecto de "principio a fin" de una arquitectura de producto de datos en la nube a través de ***checkpoints*** de avance durante el transcurso del semestre.
 
-Se formarán equipos de 4 personas que se organizarán durante el primer día de clase de manera aleatoria, pero tomando en cuenta la experiencia y la educación previa de los estudiantes. La idea es tener grupos mixtos de disciplinas y experiencias para reflejar y emular la manera en cómo un científico de datos trabajar en el mundo real laboral. 
+Se formarán equipos de 4 personas que se organizarán durante el primer día de clase de manera aleatoria, pero tomando en cuenta la experiencia y la educación previa de los estudiantes. La idea es tener grupos mixtos de disciplinas y experiencias para reflejar y emular la manera en cómo un científico de datos trabaja en el mundo real laboral. 
 
 
 #### Checkpoints
