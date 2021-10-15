@@ -158,3 +158,5 @@ La clase será impartida por **[Adrian Sanchez-Castro](https://www.linkedin.com/
 - Alejandra Garay - Ingeniera de Datos Lead - Cinépolis
 - Gustavo Salaiz - Director de Datos - Albo
 - Gerardo Mathus - Director de Ingeniería - Nextia
+- Esteban Wasson - Manager de Producto - CoverWallet - Profesor Data Visualization and Analytics - Yeshiva University
+- Santiago Battezzati - Científico de datos - OPI
