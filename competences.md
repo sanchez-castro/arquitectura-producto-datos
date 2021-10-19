@@ -16,7 +16,6 @@
 - El alumno conoce el etos de una organización/startup.
 - El alumno aproxima el diseño de producto de datos con base en la mision y problema de negocio.
 - El alumno conoce el rol de un producto de datos en una organización.
-- El alumno es un pensador crítico qué es capaz de evaluar el triage del problema y el impacto de una solución de producto de datos.
 
     - [The Learn Startup, Chapter 1: Start, Chapter 2: Define](https://www.getstoryshots.com/books/the-lean-startup-summary/#PART_1_Vision)
     - [Forget about building an AI-first business. Start with a mission](https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/)
@@ -28,6 +27,7 @@
 
 
 #### 2. Arquitectura de Producto de datos
+- El alumno es un pensador crítico qué es capaz de evaluar el triage del problema y el impacto de una solución de producto de datos.
 - El alumno conoce el proceso de diseñar un producto de datos y evaluar el trade-off de implementación-deuda técnica de una organización
 - El alumno es capaz de plantear el alcance, amplitud y extensión de un producto de datos.
 - El alumno conoce los riesgos e implicaciones del impacto de un producto exitoso/fallido.
