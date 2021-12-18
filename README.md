@@ -50,7 +50,7 @@ Habrán 6 ***checkpoints*** que trendrán que ser reflejados en un repositorio d
 
 ---
 ## Notas de Clase
-Las notas de clase estarán disponibles en la plataforma [Notion](https://www.notion.so/product) disponible en la siguiente liga: [Notion: Arquitectura de Producto de Datos ](https://www.notion.so/Arquitectura-de-Producto-de-Datos-86e9cc35860f48d1baf0e2feb8962441). 
+Las notas de clase estarán disponibles en la siguiente liga: [Notion: Arquitectura de Producto de Datos](https://arquitectura-producto-datos.notion.site). 
 
 ## Temario
 1. Innovación con datos
