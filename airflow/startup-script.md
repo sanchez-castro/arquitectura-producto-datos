@@ -24,7 +24,7 @@ then
   echo GOOGLE_APPLICATION_CREDENTIALS=<sevice account key path> >> /etc/profile
   echo BUCKET_NAME=<bucket_name> >> /etc/profile
   export AIRFLOW_HOME=/home/airflow
-  echo AIRFLOW_HOME=/home >> /etc/profile
+  echo AIRFLOW_HOME=/home/airflow >> /etc/profile
 
   echo "Providing Airflow User Permissions"
   cd /home/airflow/
