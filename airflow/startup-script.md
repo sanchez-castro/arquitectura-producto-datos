@@ -27,7 +27,10 @@ then
   echo AIRFLOW_HOME=/home/airflow >> /etc/profile
 
   echo "Providing Airflow User Permissions"
-  cd /home/airflow/
+  cd /home/airflow
+  mkdir dags
+  echo "Pulling Dag Files"
+  gsutil -m cp -r gs://$BUCKET_NAME/dags /home/airflow
   chown airflow.airflow . -R
   chmod g+rwx . -R
 
@@ -54,7 +57,11 @@ else
   echo "Setting Environment Variables"
   export AIRFLOW_HOME=/home/airflow
   echo AIRFLOW_HOME=/home/airflow >> /etc/profile
-
+  
+  echo "Pulling Dag Files"
+  export BUCKET_NAME=<bucket_name>
+  gsutil -m cp -r gs://$BUCKET_NAME/dags /home/airflow
+  
   echo "Providing Airflow User Permissions"
   cd /home/airflow/
   chown airflow.airflow . -R
