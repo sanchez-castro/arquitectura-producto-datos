@@ -2,9 +2,11 @@
 
 from airflow import DAG
 from airflow.operators.python import PythonOperator
+from airflow.contrib.operators.bigquery_operator import BigQueryOperator
 from airflow.models import Variable
 from datetime import datetime
 from baseball.get_pitches import get_pitches
+import os
 
 args = {
     'owner': 'Jake Klein',
@@ -12,10 +14,16 @@ args = {
     'retries': 3,
     'depends_on_past': True,
 }
+path = os.path.dirname(os.path.abspath(__file__))
+sql_path = os.path.join(path, 'sql')
+elt_path = os.path.join(sql_path, 'elt')
+ddl_path = os.path.join(elt_path, 'ddl.sql')
+ddl = open(ddl_path, mode='r').read()
 
 params = {
     'bucket': Variable.get("bucket"),
-    'folder': 'baseball'
+    'folder': 'baseball',
+    'project_id': Variable.get("project_id")
 }
 
 dag = DAG(
@@ -34,3 +42,13 @@ extract_load_task = PythonOperator(
     python_callable=get_pitches,
     op_kwargs={'bucket': params['bucket'], 'path': params['folder']}
 )
+
+transform_task = BigQueryOperator(
+    dag=dag,
+    params=params,
+    task_id = 'transform_task',
+    use_legacy_sql=False,
+    sql=ddl
+)
+
+extract_load_task >> transform_task
