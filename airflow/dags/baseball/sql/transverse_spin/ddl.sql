@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `itam-spring-2022.baseball.transverse_spin_features` (
+CREATE TABLE IF NOT EXISTS `{{ params.project_id }}.baseball.{{ params.features_table }}` (
   game_pk INT64,
   at_bat_number INT64,
   pitch_number INT64,
@@ -18,7 +18,7 @@ CREATE TABLE IF NOT EXISTS `itam-spring-2022.baseball.transverse_spin_features` 
 PARTITION BY
   game_date
 ;
-CREATE TABLE IF NOT EXISTS `itam-spring-2022.baseball.transverse_spin_predictions` (
+CREATE TABLE IF NOT EXISTS `{{ params.project_id }}.baseball.{{ params.predictions_table }}` (
   game_pk INT64,
   at_bat_number INT64,
   pitch_number INT64,
