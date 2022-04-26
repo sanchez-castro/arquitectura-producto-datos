@@ -8,6 +8,8 @@ AS (
     ELSE measured
   END as INT64)
 );
+TRUNCATE TABLE `{{ params.project_id}}.baseball.{{ params.predictions_table }}`;
+INSERT INTO `{{ params.project_id}}.baseball.{{ params.predictions_table }}`
 SELECT
   game_pk,
   at_bat_number,
@@ -16,16 +18,16 @@ SELECT
   release_spin_rate,
   breakx,
   breakz,
-  transverse_spin as transverse_spin_measured,
+  transverse_spin_measured as transverse_spin_measured,
   CAST(predicted_label as INT64) as transverse_spin_predicted,
-  correctTransverseSpin(release_spin_rate, transverse_spin, CAST(predicted_label as INT64)) as transverse_spin,
+  correctTransverseSpin(release_spin_rate, transverse_spin_measured, CAST(predicted_label as INT64)) as transverse_spin,
   CAST(SQRT(
     POW(release_spin_rate, 2)
-    - POW(correctTransverseSpin(release_spin_rate, transverse_spin, CAST(predicted_label as INT64)), 2)
+    - POW(correctTransverseSpin(release_spin_rate, transverse_spin_measured, CAST(predicted_label as INT64)), 2)
   ) as INT64) as gyro_spin
 FROM
   ML.PREDICT(
-    MODEL `itam-spring-2022.baseball.transverse_spin_model_xgb20220402_v3`,
-    TABLE `itam-spring-2022.baseball.transverse_spin_model_training20220402`
+    MODEL `{{ params.project_id }}.baseball.transverse_spin_model_xgb20220402_v3`,
+    TABLE `{{ params.project_id }}.baseball.{{ params.features_table }}`
   )
 ;
