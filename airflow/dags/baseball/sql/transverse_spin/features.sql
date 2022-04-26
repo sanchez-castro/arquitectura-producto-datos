@@ -8,7 +8,7 @@ SET d = 50;
 SET start = 40;
 SET dplate = 17/12;
 SET c0 = 5.153*POW(10, -3);
-INSERT INTO table <>
+INSERT INTO `{{params.project_id}}.baseball.{{ params.features_table }}`
 WITH base AS (
   SELECT
     game_pk,
@@ -35,7 +35,7 @@ WITH base AS (
     estimated_woba_using_speedangle,
     woba_denom
   FROM
-    `itam-spring-2022.baseball.pitches`
+    `{{ params.project_id }}.baseball.pitches`
   WHERE
     game_date = '{{ ds }}'
 ),
